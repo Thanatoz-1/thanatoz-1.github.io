@@ -6,10 +6,21 @@
     <description>Recent content in General on Tushar&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://thanatoz-1.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jupyter Magic</title>
+      <link>https://thanatoz-1.github.io/post/jupyter-magic/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/jupyter-magic/</guid>
+      <description>Jupyter MAGIC cheatsheet
+Jupyter notebooks are greatly used in the Python and Data Science community and by all the people who love Jupyter Notebooks. I love notebooks so much that even this post has been created using one jupyter notebook.
+You might have come across commands such as %matplotlib inline %time %autoreload etc. These are called Jupyter MAGIC. Jupyter magic are special commands that are built-in jupyter notebooks to extend its capablities.</description>
+    </item>
     
     <item>
       <title>Colab with fast.ai and kaggle api</title>
@@ -19,17 +30,6 @@
       <guid>https://thanatoz-1.github.io/post/colab-and-fastai/</guid>
       <description>If you are planning to either setup your coding enviornment using all the online available resources or are casually wandering to understand how you could get the most from the publically freely available resources, this blog is just the right place for you to begin with.
 Before jumping into coding your Kaggle contest submission, I would be extremly handy if you setup you working enviornment. If you are planning to use Colab or Kaggle Kernal to train your model, you could simply run, download and install anything from the notebook itself.</description>
-    </item>
-    
-    <item>
-      <title>Jupyter Magic</title>
-      <link>https://thanatoz-1.github.io/post/jupyter-magic/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://thanatoz-1.github.io/post/jupyter-magic/</guid>
-      <description>Jupyter MAGIC cheatsheet
-Jupyter notebooks are greatly used in the Python and Data Science community and by all the people who love Jupyter Notebooks. I love notebooks so much that even this post has been created using one jupyter notebook.
-You might have come across commands such as %matplotlib inline %time %autoreload etc. These are called Jupyter MAGIC. Jupyter magic are special commands that are built-in jupyter notebooks to extend its capablities.</description>
     </item>
     
   </channel>
