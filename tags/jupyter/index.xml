@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupyter on Tushar&#39;s blog</title>
+    <link>https://thanatoz-1.github.io/tags/jupyter/</link>
+    <description>Recent content in Jupyter on Tushar&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thanatoz-1.github.io/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jupyter Magic</title>
+      <link>https://thanatoz-1.github.io/post/jupyter-magic/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/jupyter-magic/</guid>
+      <description>Jupyter MAGIC cheatsheet
+Jupyter notebooks are greatly used in the Python and Data Science community and by all the people who love Jupyter Notebooks. I love notebooks so much that even this post has been created using one jupyter notebook.
+You might have come across commands such as %matplotlib inline %time %autoreload etc. These are called Jupyter MAGIC. Jupyter magic are special commands that are built-in jupyter notebooks to extend its capablities.</description>
+    </item>
+    
+  </channel>
+</rss>

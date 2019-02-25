@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tushar&#39;s blog</title>
+    <link>https://thanatoz-1.github.io/post/</link>
+    <description>Recent content in Posts on Tushar&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 14:22:07 +0530</lastBuildDate>
+    
+	<atom:link href="https://thanatoz-1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow Resources</title>
+      <link>https://thanatoz-1.github.io/post/tensorflow_cheat/</link>
+      <pubDate>Thu, 21 Feb 2019 14:22:07 +0530</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/tensorflow_cheat/</guid>
+      <description>What is Tensorflow? TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors), which communicates between them. The flexible architecture allows user to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google&#39;s Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Magic</title>
+      <link>https://thanatoz-1.github.io/post/jupyter-magic/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/jupyter-magic/</guid>
+      <description>Jupyter MAGIC cheatsheet
+Jupyter notebooks are greatly used in the Python and Data Science community and by all the people who love Jupyter Notebooks. I love notebooks so much that even this post has been created using one jupyter notebook.
+You might have come across commands such as %matplotlib inline %time %autoreload etc. These are called Jupyter MAGIC. Jupyter magic are special commands that are built-in jupyter notebooks to extend its capablities.</description>
+    </item>
+    
+    <item>
+      <title>Colab with fast.ai and kaggle api</title>
+      <link>https://thanatoz-1.github.io/post/colab-and-fastai/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/colab-and-fastai/</guid>
+      <description>If you are planning to either setup your coding enviornment using all the online available resources or are casually wandering to understand how you could get the most from the publically freely available resources, this blog is just the right place for you to begin with.
+Before jumping into coding your Kaggle contest submission, I would be extremly handy if you setup you working enviornment. If you are planning to use Colab or Kaggle Kernal to train your model, you could simply run, download and install anything from the notebook itself.</description>
+    </item>
+    
+  </channel>
+</rss>

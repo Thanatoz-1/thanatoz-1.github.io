@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on Tushar&#39;s blog</title>
+    <link>https://thanatoz-1.github.io/tags/guide/</link>
+    <description>Recent content in Guide on Tushar&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 14:22:07 +0530</lastBuildDate>
+    
+	<atom:link href="https://thanatoz-1.github.io/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow Resources</title>
+      <link>https://thanatoz-1.github.io/post/tensorflow_cheat/</link>
+      <pubDate>Thu, 21 Feb 2019 14:22:07 +0530</pubDate>
+      
+      <guid>https://thanatoz-1.github.io/post/tensorflow_cheat/</guid>
+      <description>What is Tensorflow? TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors), which communicates between them. The flexible architecture allows user to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google&#39;s Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.</description>
+    </item>
+    
+  </channel>
+</rss>
